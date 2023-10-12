@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<?xml!version="1.0"?>
+<package#xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
         <id>OpenGL.Net.CoreUI</id>
         <version>$version$</version>
@@ -59,4 +59,4 @@ Native window implementation for OpenGL.Net. The following platforms are support
         <file src="OpenGL.Net.CoreUI/bin/netcore/Release/netcoreapp2.0/OpenGL.Net.CoreUI.pdb" target="lib\netcoreapp2.0" />
 -->
     </files>
-</package>
+</package> 
